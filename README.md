@@ -29,22 +29,22 @@ Agile methodology. An iterative and incremental approach that focuses on flexibi
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software developer roles.
-Responsible for writing code and implementing software solutions to real-world problems. Also maintains and updates existing software projets.
+Responsible for writing code and implementing software solutions to real-world problems. Also maintains and updates existing software projects.
 
-Quality Assurance Engineer roles
+Quality Assurance Engineer roles.
 Ensures software quality by designing and executing test plans.
 Identifies and reports software defects.
 
-Project Manager Roles
+Project Manager Roles.
 Oversees the planning, execution, and delivery of software projects.
 Manages project scope, schedule, and budget.
 Facilitates communication and collaboration among team members.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments provide tools for writing, debugging and testing code. Examples are Eclipse, IntelliJ IDEA and Visual Studio.
+Integrated Development Environments provides tools for writing, debugging and testing code. Examples are Eclipse, IntelliJ IDEA and Visual Studio.
 Integrated Development Environments have features such as syntax highlight which enhances error identification in code and improves code quality.
-Integrated Development Environments can integrate with tools like version control systems and testing tools leading to an improvement in the workflow for developers.
-Version Control Systems enable tracking of changes made to source code and also enable coordination of work among team members. Examples are Git and Subversion. 
+Integrated Development Environments can integrate with tools like version control systems and testing tools leading to improved workflow for developers.
+Version Control Systems enable tracking of changes made to source code and coordinate work among team members. Examples are Git and Subversion. 
 Version Control systems maintain a complete history of code changes allowing developers to revert to previous versions if needed.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -69,14 +69,13 @@ System Testing: Testing the entire software system as a whole.
 Evaluates the overall functionality, performance, and security of the system.
 
 Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
-Provides final validation that the software is ready for release. It confirms that the system fulfils the user requirements and business objectives.
+Acceptance testing provides a final validation that the software is ready for release. It confirms that the system fulfils the user requirements and business objectives.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is the process of designing effective input for AI models to achieve specific outputs. 
-Its importance lies in maximizing the model's potential and ensuring accurate, relevant, and useful responses.   
+Prompt engineering is the process of designing effective input for Artificial Intelligence models to achieve specific outputs. 
+Prompt engineering is important as it maximises the model's potential and ensures accurate, relevant, and useful responses.   
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
