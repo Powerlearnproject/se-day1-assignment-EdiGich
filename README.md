@@ -28,21 +28,59 @@ Waterfall. This methodology follows a sequential approach with distinct phases s
 Agile methodology. An iterative and incremental approach that focuses on flexibility, collaboration, and responding to any changes to the software product during development. Suitable for projects with evolving requirements, such as developing a mobile app. Agile methodology allows for continuous improvement based on user feedback.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software developer roles.
+Responsible for writing code and implementing software solutions to real-world problems. Also maintains and updates existing software projets.
 
+Quality Assurance Engineer roles
+Ensures software quality by designing and executing test plans.
+Identifies and reports software defects.
+
+Project Manager Roles
+Oversees the planning, execution, and delivery of software projects.
+Manages project scope, schedule, and budget.
+Facilitates communication and collaboration among team members.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+Integrated Development Environments provide tools for writing, debugging and testing code. Examples are Eclipse, IntelliJ IDEA and Visual Studio.
+Integrated Development Environments have features such as syntax highlight which enhances error identification in code and improves code quality.
+Integrated Development Environments can integrate with tools like version control systems and testing tools leading to an improvement in the workflow for developers.
+Version Control Systems enable tracking of changes made to source code and also enable coordination of work among team members. Examples are Git and Subversion. 
+Version Control systems maintain a complete history of code changes allowing developers to revert to previous versions if needed.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Challenges encountered during the development process are;
+Changing requirements: Changes in requirements during development may lead to scope creep and project delays.
+Tight deadlines: Pressure to deliver a software product on schedule can lead to rushing during development and compromise on quality.
+Technical dept: AS a result of taking shortcuts during development, the technical dept can cause a challenge during future development efforts and increase maintenance costs.
+To overcome these challenges;
+There should be effective communication between project stakeholders and the project manager to ensure everyone understands requirements and progress.
+Adoption of agile methodologies to easily accommodate the changes in user requirements.
+Prioritization of tasks to maximize efficiency during project development.
+Regular reassessment of project goals and timelines to stay on track with the requirements.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing: Testing individual components or modules of software.
+Ensures that individual code components function correctly in isolation. It helps to catch bugs early in the development cycle, making them easier and cheaper to fix.
 
+Integration Testing: Testing interactions between different components or subsystems.
+Verifies that the interfaces between components are working correctly and that data flows smoothly between them. It identifies issues that arise when units are combined.
+
+System Testing: Testing the entire software system as a whole.
+Evaluates the overall functionality, performance, and security of the system.
+
+Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+Provides final validation that the software is ready for release. It confirms that the system fulfils the user requirements and business objectives.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is the process of designing effective input for AI models to achieve specific outputs. 
+Its importance lies in maximizing the model's potential and ensuring accurate, relevant, and useful responses.   
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt: "Tell me about cats". 
+Improved prompt: "Tell me about the history of domestic cats".
+The vague prompt will result in a general response from the model. The improved prompt is more focused on a specific part of the topic to be discussed which is, "the history of a domestic cat" therefore will be more effective. The model will most definitely give a more focused response from the improved prompt since it is more clear, specific and concise.
